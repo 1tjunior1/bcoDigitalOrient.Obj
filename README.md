@@ -1,5 +1,5 @@
 # bcoDigitalOrient.Obj
-Desafio de Código JavaDIOCoognizant!
+Code challenge JavaDIOCoognizant!
 The intention was to develop a simple banking management program in Java. 
 In the specific classes contaPoupança and contaInvestimentos, adding 
 attributes and validations:
