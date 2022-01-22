@@ -1,19 +1,19 @@
 # bcoDigitalOrient.Obj
 Desafio de Código JavaDIOCoognizant!
 The intention was to develop a simple banking management program in Java. 
-In the specific classes conta poupança and conta investimentos, adding 
+In the specific classes contaPoupança and contaInvestimentos, adding 
 attributes and validations:
 
-Count: Add attribute: nomecliente
+Banking account: Add attribute: nomecliente
 
-Poupança: initial = $ 0,00 
-Account balance necessary to initial deposit = $ 50,00
+Saving Account: initial = $ 0,00 
+Initial deposit = $ 50,00
 
 Investimento: initial = $ 0,00
 Account balance = $ 30,00
 
 Menu presentation: 
-Open account: request name, tipodecliente, data;
+Open account: request name, tipodeCliente, data;
 Withdraw: debiting the value from the account; 
 Deposit: add value to account;
 Account balance: consulting the banking account
